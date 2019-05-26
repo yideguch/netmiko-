@@ -1,1 +1,2 @@
-# netmiko 
+# netmikoでtelnet接続
+自動でバックアップファイルを取得するスクリプト
